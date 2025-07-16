@@ -1,12 +1,12 @@
-# 👋 Ciao, sono Cristian Amateis (Antani).
-Il mio preferito è e sempre sarà il Dile
+# 👋 Ciao, sono Cristian Amateis.
+Currently studying Data Analytics at ITS Academy ICT Piemonte in Turin. Also preparing for the CFA® Investment Foundations certification.
 
 ## 💻 Tech Stack
-- **Languages** Python, Go, SQL, Kotlin, C++, HTML/CSS
-- **Learning** React, Rust
-- **Mobile Development:** Android Studio
+- **Languages** Python, Go, SQL, HTML/CSS
+- **Learning** React, Rust, C
+- **Business Intelligence** Familiar with Metabase 
 
 ## 🔍 Interests
 - **Artificial intelligence** Data analysis, machine learning, neural network
-- **Cryptocurrencies** trading bot, chart analysis
+- **Finance** Basic knowledge of financial markets and instruments
 
